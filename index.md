@@ -8,5 +8,3 @@ is a converter for temperature units<br/>
  <script src="https://ideone.com/e.js/cELp7M" type="text/javascript" ></script>
 </li>
 <li><a href="https://github.com/amalbenny/python-pro/blob/cap/weight-calc/weight-calculator.py">Weight-calculator.py</a> Weight units converter</br>
-</ul>
-</li>
