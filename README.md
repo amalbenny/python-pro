@@ -6,5 +6,7 @@ open source projects which is built in python 3
 <ul style="padding:25px;font-size:10px"><li> <a href="https://github.com/amalbenny/python-pro/blob/cap/temperature-calc/Temperature_calculator.py" >Temperature_calculator.py</a>
 is a converter kelvin to Celcius and vice versa<br/> 
  <a href="https://ideone.com/cELp7M"> Run the code </a>
+</li>
+<li> <a href="weight-calc/weight-calculator.py">Weight-Calculator.py</a> - Weight units converter
 </li></ul>
 </li>
